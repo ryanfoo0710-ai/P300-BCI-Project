@@ -1,0 +1,6 @@
+*.gdoc
+*.gsheet
+physionet.org/
+.config/
+sample_data/
+drive/
